@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian Hodges
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning how to be a DevOps engineer at Liatrio
-- 🎓 I'm currently going to school at CSU Chico for a degree in Computer Science
+- 👀 I’m interested in DevOps and Agile practices
+- 🌱 I’m currently an Associate DevOps Engineer at [Liatrio](https://www.liatrio.com/)
+- 🎓 I graduated from CSU Chico with a B.S. in Computer Science and Minor in Japanese
 - 📫 How to reach me cdhodges5@gmail.com
 
 <!---
