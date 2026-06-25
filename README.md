@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christian Hodges
-- 👀 I’m interested in DevOps and Agile practices
-- 🎓 I graduated from CSU Chico with a B.S. in Computer Science and Minor in Japanese
-- 📫 How to reach me cdhodges5@gmail.com
+- Hi, my name's Christian Hodges
+- I graduated from CSU Chico with a B.S. in Computer Science and Minor in Japanese
+- I am just about to get my Master's of Public Administration from San Francisco State University
+- How to reach me: cdhodges5@gmail.com
